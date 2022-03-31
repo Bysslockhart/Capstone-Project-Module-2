@@ -5,14 +5,6 @@ Northwind data analysis with supplier as the main focus
 
 Taking a closer look at products which supplier yields us the most grossincome and act on it
 
-
-|Segment|RFM Score|
-|---|---|
-|Bronze|3-5|
-|Silver|6-8|
-|Gold|9-11|
-|Platinum|12|
-
 Top 5 suppliers based on Gross Income:
 
 |Supplier			      	|Quantity	  |GrossIncome	|
