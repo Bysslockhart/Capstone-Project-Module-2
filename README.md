@@ -3,7 +3,7 @@ Capstone Project for Module 2
 
 Northwind data analysis with supplier as the main focus
 
-Taking a closer look at products which supplier yields us the most grossincome and act on it
+Taking a closer look at products which supplier yields us the most gross income and act on it
 
 Top 5 suppliers based on Gross Income:
 
