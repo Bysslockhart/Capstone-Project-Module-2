@@ -1,5 +1,5 @@
 # Northwind Data Analysis
-Capstone Project for Module 2
+Statistical Analysis and Visualization for Northwind Dataset
 
 Northwind data analysis with supplier as the main focus
 
