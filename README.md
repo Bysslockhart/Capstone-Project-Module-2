@@ -1,6 +1,8 @@
 # Northwind Data Analysis
 Statistical Analysis and Visualization for Northwind Dataset
 
+Video Explanation: [Youtube](https://youtu.be/yyJH3Mb89-M)
+
 Northwind data analysis with supplier as the main focus
 
 Taking a closer look at which supplier yields us the most gross income and act on it
